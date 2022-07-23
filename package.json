@@ -24,7 +24,7 @@
   "dependencies": {
     "aws-sdk": "^2.794.0",
     "express-validator": "^6.6.0",
-    "file-type": "^14.6.1",
+    "file-type": "^16.5.4",
     "ftp": "^0.3.10",
     "is-jpg": "^2.0.0",
     "lodash": "^4.17.20",
